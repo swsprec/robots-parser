@@ -1,0 +1,4 @@
+coloredlogs==15.0.1
+humanfriendly==10.0
+Levenshtein==0.23.0
+rapidfuzz==3.4.0
